@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=datgen2;AccountKey=nBD3VMPlMpkwgWcm1vaEzpDFM+TzlIfSeHpRTXZ9o2rBcxJTIHPMV4/43PCbp61Bl3VVKkV45hiC+AStyNOHkw==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "EventHubConnection": "Endpoint=sb://kartiknm.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=47udtcEEkngr4Whja2ZqIj2C1GjbuZ2w/+AEhMmYwuk="
+  }
+}
